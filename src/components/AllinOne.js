@@ -110,18 +110,6 @@ const AllinOne = () => {
               </p>
             </div>
           </article>
-          <article className='flex'>
-            <div>
-              <CheckIcon className='w-7 mr-4 text-green-600' />
-            </div>
-            <div>
-              <h3 className='font-bold text-lg'>Notification</h3>
-              <p className='text-lg pt-2 pb-4'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Officiis voluptas nisi molestias veritatis, non at.
-              </p>
-            </div>
-          </article>
         </div>
       </div>
     </section>
