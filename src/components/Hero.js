@@ -24,7 +24,7 @@ const Hero = () => {
           <img src={bgImage} alt='logo' className='w-full' />
         </div>
       </div>
-      <div className='self-center flex flex-col py-8 md:min-w-[760px] mx-2 md:mx-auto  bg-zinc-200 border border-slate-300 rounded-xl text-center shadow-xl'>
+      <div className='self-center flex flex-col py-8 md:min-w-[760px] mx-4 md:mx-auto  bg-zinc-200 border border-slate-300 rounded-xl text-center shadow-xl'>
         <p>Data Services</p>
         <div className='flex justify-between px-4 flex-wrap'>
           <p className='flex px-4 py-2 text-slate-500'>

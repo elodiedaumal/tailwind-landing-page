@@ -14,16 +14,16 @@ const About = () => {
             dignissimos nesciunt harum!
           </p>
         </div>
-        <div className='grid md:grid-cols-3 gap-1 px-2 text-center'>
+        <div className='grid md:grid-cols-3 gap-1 px-4 text-center'>
           <div className='border py-8 rounded-xl shadow-xl'>
             <p className='text-6xl text-indigo-600 font-bold'>100%</p>
             <p className='text-gray-400 mt-2'>Completion</p>
           </div>
-          <div className='border py-8 rouned-xl shadow-xl'>
+          <div className='border py-8 rounded-xl shadow-xl'>
             <p className='text-6xl text-indigo-600 font-bold'>24/7</p>
             <p className='text-gray-400 mt-2'>Delivery</p>
           </div>
-          <div className='border py-8 rouned-xl shadow-xl'>
+          <div className='border py-8 rounded-xl shadow-xl'>
             <p className='text-6xl text-indigo-600 font-bold'>100K</p>
             <p className='text-gray-400 mt-2'>Transaction</p>
           </div>
