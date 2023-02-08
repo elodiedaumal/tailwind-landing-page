@@ -26,7 +26,7 @@ const Navbar = () => {
           </button>
           <button className='px-8 py-3'>Sign Out</button>
         </div>
-        <div className='md:hidden' onClick={handleClick}>
+        <div className='md:hidden mx-4' onClick={handleClick}>
           {!isMenuOpen ? (
             <Bars3Icon className='w-7' />
           ) : (

@@ -3,7 +3,7 @@ import React from 'react';
 const About = () => {
   return (
     <section className='w-full my-32 '>
-      <div className='max-w-[1240px] mx auto'>
+      <div className='max-w-[1240px] mx-auto'>
         <div className='text-center'>
           <h2 className='text-5xl font-bold'>
             Trusted by developers across the world
