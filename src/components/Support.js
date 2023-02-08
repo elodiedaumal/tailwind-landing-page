@@ -5,8 +5,8 @@ import { CpuChipIcon, LifebuoyIcon } from '@heroicons/react/20/solid';
 const Support = () => {
   return (
     <section className='w-full'>
-      <div className='h-[700px]  bg-[url("../public/images/support.jpg")]  bg-cover bg-center bg-no-repeat'>
-        <div className='w-full h-[700px] bg-gray-900/90 '>
+      <div className='h-[700px]  bg-[url("../public/images/support.jpg")]  bg-cover bg-center bg-no-repeat  '>
+        <div className='w-full h-[700px]  bg-gray-900/90 '>
           <div className='max-w-[1240px] mx-auto text-white '>
             <header className='px-4 py-12 text-center'>
               <h2 className='text-3xl pt-8 text-slate-300 uppercase '>
@@ -24,7 +24,7 @@ const Support = () => {
           </div>
         </div>
       </div>
-      <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black mx-auto lg:-mt-96 md:-mt-80 sm:-mt-72 -mt-56'>
+      <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black mx-auto lg:-mt-96 md:-mt-80 sm:-mt-72 -mt-32'>
         <article className='bg-white rounded-xl shadow-2xl flex flex-col justify-between'>
           <div className='p-8'>
             <PhoneIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]' />
