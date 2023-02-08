@@ -3,8 +3,8 @@ import { CheckIcon } from '@heroicons/react/20/solid';
 
 const Pricing = () => {
   return (
-    <section className='w-full text-white my-24'>
-      <div className='w-full h-[800px] bg-slate-900 mix-blend-overlay'>
+    <section className=' w-full  text-white my-24 '>
+      <div className=' w-full  bg-gradient-to-b   to-white from-slate-900 mix-blend-overlay'>
         <div className='max-w-[1240px] mx-auto py-12'>
           <header className='text-center py-8 text-slate-300'>
             <h2 className='text-3xl uppercase'>Pricing</h2>
