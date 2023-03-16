@@ -13,6 +13,10 @@ const About = () => {
             voluptas impedit ad repellat explicabo, accusamus quae accusantium
             dignissimos nesciunt harum!
           </p>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab,
+            laudantium.
+          </p>
         </div>
         <div className='grid md:grid-cols-3 gap-1 px-4 text-center'>
           <div className='border py-8 rounded-xl shadow-xl'>
